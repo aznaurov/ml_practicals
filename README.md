@@ -6,9 +6,7 @@ Kaggle competition on russian houses price estimation
 https://www.kaggle.com/c/sberbank-russian-housing-market/
 
 ## Clustering
-Use pre-trained ResNet50 model for ImageNet dataset.
-
-Cut the last layer
+Use pre-trained ResNet50 model for ImageNet dataset
 
 Perform clusterization on the second-to-last layer's output
 
